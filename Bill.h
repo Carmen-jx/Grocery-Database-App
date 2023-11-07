@@ -1,13 +1,4 @@
-// Final Project
-// Point of Sale Application
-// Bill.cpp
-// Version 1.0
-// Date  2023-03-29
-// Author   Fardad Soleimanloo
-// Description
-// Generates Bill using Item::bprint()
-//
-/////////////////////////////////////////////////////////////////
+
 #ifndef SDDS_BILL_H
 #define SDDS_BILL_H
 #include <iostream>
