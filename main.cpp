@@ -1,13 +1,4 @@
-// Final Project
-// Point of Sale Application
-// Version 1.0
-// Date  2023-03-29
-// Author   Fardad Soleimanloo
-// Description
-// This program test the student implementation of the Point of
-// Sale Application
-//
-/////////////////////////////////////////////////////////////////
+
 #include <fstream>
 #include <iostream>
 #include "PosApp.h"
